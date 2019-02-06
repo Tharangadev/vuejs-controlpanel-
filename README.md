@@ -1,6 +1,9 @@
 # Control Panel vue js 
-![alt text](vuejs-controlpanel-/screenshot1.png)
-![alt text](vuejs-controlpanel-/screenshot2.png)
+![alt text](https://raw.githubusercontent.com/Tharangadev/vuejs-controlpanel-/master/screenshot1.png)
+
+![alt text](https://raw.githubusercontent.com/Tharangadev/vuejs-controlpanel-/master/screenshot2.png)
+
+
 ## Project setup
 ```
 yarn install
