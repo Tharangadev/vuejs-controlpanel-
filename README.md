@@ -1,5 +1,6 @@
-# new-app
-
+# Control Panel vue js 
+![alt text](vuejs-controlpanel-/screenshot1.png)
+![alt text](vuejs-controlpanel-/screenshot2.png)
 ## Project setup
 ```
 yarn install
